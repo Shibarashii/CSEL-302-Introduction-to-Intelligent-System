@@ -1,2 +1,3 @@
-# csel-302
-Activities for CSEL 302
+#CSEL 302 - Introduction to Intelligent System
+
+Repository for the activities and final project for the course Introduction to Intelligent System
